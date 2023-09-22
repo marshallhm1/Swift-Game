@@ -31,4 +31,9 @@ Hub page
 ![simulator_screenshot_F8BE4420-0A39-4294-92AD-61695FB4E1C2](https://github.com/marshallhm1/LifeSim/assets/105462702/059a1f16-3136-4734-a5a5-8c7154d62440)
 
 
-![simulator_screenshot_9296DCCB-5680-4283-AF1F-B80C46A6A8AC](https://github.com/marshallhm1/LifeSim/assets/105462702/a72e40cb-3eca-4b7f-8684-ee34421186a2)
+![simulator_screenshot_9296DCCB-5680-4283-AF1F-B80C46A6A8AC](https://github.com/marshallhm1/LifeSim/assets/1054627!
+
+New Visual Layout
+[simulator_screenshot_7DAF5014-15DE-4140-904B-14A0CFD50399]
+(https://github.com/marshallhm1/LifeSim/assets/105462702/2b030458-0e1e-4810-934d-638f67d5524e)
+02/a72e40cb-3eca-4b7f-8684-ee34421186a2)
