@@ -1,4 +1,3 @@
-# LifeSim
 Life simulator for iPhone. Currently in development.
 
 *Untitled* is a SwiftUI-based mobile application designed to simulate various aspects of a virtual life, offering an engaging and interactive experience. 
